@@ -6,3 +6,4 @@ https://doc.rust-jp.rs/book-ja/ch02-00-guessing-game-tutorial.html
 
 * 'cargo doc --open'でプロジェクトが使っているクレートのドキュメントが開ける
 
+https://doc.rust-jp.rs/book-ja/ch03-00-common-programming-concepts.html
