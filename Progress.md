@@ -6,4 +6,4 @@ https://doc.rust-jp.rs/book-ja/ch02-00-guessing-game-tutorial.html
 
 * 'cargo doc --open'でプロジェクトが使っているクレートのドキュメントが開ける
 
-https://doc.rust-jp.rs/book-ja/ch03-02-data-types.html#%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%BC%E5%9E%8B
+https://doc.rust-jp.rs/book-ja/ch04-01-what-is-ownership.html#%E6%89%80%E6%9C%89%E6%A8%A9%E3%81%A8%E9%96%A2%E6%95%B0
