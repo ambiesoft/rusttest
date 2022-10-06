@@ -15,3 +15,4 @@ let s = "Hello, world!";
 ここでのsの型は、&strです。不変な参照です。
 
 https://doc.rust-jp.rs/book-ja/ch05-00-structs.html
+https://doc.rust-jp.rs/book-ja/ch06-00-enums.html
