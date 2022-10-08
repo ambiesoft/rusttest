@@ -14,5 +14,6 @@ let s = "Hello, world!";
 ```
 ここでのsの型は、&strです。不変な参照です。
 
-https://doc.rust-jp.rs/book-ja/ch07-05-separating-modules-into-different-files.html
 https://doc.rust-jp.rs/book-ja/ch08-02-strings.html
+https://doc.rust-jp.rs/book-ja/ch08-03-hash-maps.html
+
